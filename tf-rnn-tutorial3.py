@@ -7,10 +7,6 @@ Copyright (c) Tsuyoshi Matsumoto 2017.
 Dual licensed under the MIT license http://www.opensource.org/licenses/mit-license.php
 and GPL v2 license http://www.gnu.org/licenses/gpl.html .
 
-TensorBoard allows us to visualize our TensorFlow graph, plot quantitative metrics about
-the execution of your graph, and show additional data like images that pass through it.
-https://www.tensorflow.org/get_started/summaries_and_tensorboard
-
 ------------------------------------------------------------------------------------
 
 If you want to resume your training exactly at the point you stopped last time,
