@@ -18,5 +18,5 @@ file: tf-rnn-tutorial2.py
 
 This tutorial explains how to use summary write and summary operations to
 visualize your execution on TensorBoard.
-
+![TensorFlow graph](./rmm-graph.png "TensorFlow graph")
 
