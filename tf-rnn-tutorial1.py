@@ -1,6 +1,6 @@
 ﻿"""
 Simple character-level RNN model using TensorFlow.
-Tutorial 1
+Tutorial 1 - Minimal RNN Language Model
 
 Copyright (c) Tsuyoshi Matsumoto 2017.
 
