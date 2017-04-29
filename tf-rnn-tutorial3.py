@@ -214,7 +214,6 @@ class Model(object):
       feed_dict={
         self.infer_input_ph: [[seed_idx]],
         self.state_ph: state})
-    #    self.isRestore: False})
 
   def predict(self, seed_idx, initial_state, len):
     str = ""
