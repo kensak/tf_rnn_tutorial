@@ -30,7 +30,7 @@ To save and restore the batch position, define 'global_step' variable.
 By passing this variable to the optimizer's 'minimize' function,
 it will be incremented each time you optimize the parameters.
 Use its evaluated value to calculate the position of a batch.
-On restoring, 'global_step' variable will also be restored
+On restoring, 'global_step' variable will be restored
 and your batch pointer will also move to the right position
 automatically.
 
