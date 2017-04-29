@@ -20,3 +20,15 @@ This tutorial explains how to use summary write and summary operations to
 visualize your execution on TensorBoard.
 ![TensorFlow graph visualization sample](./rnn-graph.png "TensorFlow graph visualization sample")
 
+### Tutorial 3 - Saving and Restoring Learned Parameters
+
+file: tf-rnn-tutorial3.py
+
+If you want to resume your training exactly at the point you stopped last time,
+you need to save and restore the following data.
+1. all the TensorFlow variables (learned parameters)
+2. the states of the RNN
+3. the position of the batch data in the whole input data
+
+This tutorial shows how.
+
